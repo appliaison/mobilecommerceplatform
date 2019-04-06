@@ -1,4 +1,4 @@
-# bordeaux
+# mvp-frontend
 
 A dashboard management portal written in Angular 7
 

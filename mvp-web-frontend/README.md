@@ -3,7 +3,7 @@
 A dashboard management portal written in Angular 7
 
 
-![Screenshot 1](https://raw.githubusercontent.com/arunabhdas/bordeaux/master/bordeaux_1.png "Screenshot")
+![Screenshot 1](bordeaux_1.png "Screenshot")
 
 ==> ng version
 
